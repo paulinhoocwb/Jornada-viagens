@@ -1,3 +1,15 @@
+:root {
+  --brackground-primary-color: #ffffff;
+  --brackground-secondary-color: #f5f5f5;
+  --brackground-tertiary-color: #0000;
+
+  --primary-color: #8f0101;
+  --secondary-color: #b81515;
+
+  --text-primary-color: #222222;
+  --text-secondary-color: #ffffff;
+}
+
 /* CSS RESET */
 body,
 img,
