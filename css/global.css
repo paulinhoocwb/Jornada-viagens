@@ -48,7 +48,8 @@ section {
   margin: 0 auto 88px;
 }
 
-section.hero {
+section.hero,
+section.bottom-hero {
   width: 100%;
   margin: 0;
 }
@@ -68,6 +69,17 @@ section.hero {
   background-color: var(--secondary-color);
   border: none;
   margin: 16px auto 32px;
+}
+
+.content-title {
+  font-size: 28px;
+  font-weight: var(--title-weight);
+  margin: 0 0 24px;
+}
+.content-text {
+  font-size: 20px;
+  font-weight: var(--text-weight);
+  line-height: 32px;
 }
 
 .button {
